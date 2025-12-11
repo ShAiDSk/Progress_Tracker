@@ -188,7 +188,7 @@ progress-tracker/
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/ShAiDSk/Progress_Tracker.git](https://github.com/ShAiDSk/Progress_Tracker.git)
+   git clone https://github.com/ShAiDSk/Progress_Tracker.git
    cd Progress_Tracker
 
 2.  **Install Dependencies**
