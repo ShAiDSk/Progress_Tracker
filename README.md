@@ -16,6 +16,8 @@ A modern, gamified goal tracking system built with Laravel 11. Featuring a premi
 
 ---
 
+# Video demo
+
 ![Demo Walkthrough](./PT_demo.gif)
 
 ---
