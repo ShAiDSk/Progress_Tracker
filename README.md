@@ -32,7 +32,7 @@ A modern, gamified goal tracking system built with Laravel 11. Featuring a premi
 ---
 
 ### 📊 Home page 
-<img src="/home_page.png"/>
+<img src="/user_home_page.png"/>
 
 ---
 
