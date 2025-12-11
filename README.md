@@ -14,6 +14,10 @@
 
 A modern, gamified goal tracking system built with Laravel 11. Featuring a premium dark UI, GitHub-style contribution heatmaps, automated email notifications, and a badge reward system to keep you motivated.
 
+![Demo Walkthrough](./PT_demo.gif)
+
+---
+
 # 📸 Screenshots
 
 ### 🏡 Homepage  
@@ -63,11 +67,6 @@ A modern, gamified goal tracking system built with Laravel 11. Featuring a premi
 
 ### 📊 Archived Goals page  
 <img src="/Archived_Goals_page.png"/>
-
----
-
-# Demo video 
-<video controls src="https://github.com/ShAiDSk/Progress_Tracker/blob/main/Progress_Tracker_Demo_video_comp.mp4" title="Title"></video>
 
 ---
 
