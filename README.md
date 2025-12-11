@@ -67,7 +67,7 @@ A modern, gamified goal tracking system built with Laravel 11. Featuring a premi
 ---
 
 # Demo video 
-<video controls src="/Progress_Tracker_Demo_video_comp.mp4" title="Title"></video>
+<video controls src="https://github.com/ShAiDSk/Progress_Tracker/blob/main/Progress_Tracker_Demo_video_comp.mp4" title="Title"></video>
 
 ---
 
