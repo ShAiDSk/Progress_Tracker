@@ -14,6 +14,8 @@
 
 A modern, gamified goal tracking system built with Laravel 11. Featuring a premium dark UI, GitHub-style contribution heatmaps, automated email notifications, and a badge reward system to keep you motivated.
 
+---
+
 ![Demo Walkthrough](./PT_demo.gif)
 
 ---
