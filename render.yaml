@@ -1,9 +1,8 @@
 services:
   - type: web
     name: progress-tracker
-    env: php
-    buildCommand: composer install --no-dev --optimize-autoloader && npm install && npm run build
-    startCommand: php artisan serve --host=0.0.0.0 --port=10000
+    env: docker               # <--- CHANGED THIS from 'php' to 'docker'
+    startCommand: ""          # Dockerfile handles the start command now
     envVars:
       - key: APP_NAME
         value: Progress_Tracker
