@@ -26,5 +26,6 @@ COPY . .
 RUN composer install --no-dev --optimize-autoloader
 RUN npm install && npm run build
 
-# 7. Start the server
-CMD php artisan serve --host=0.0.0.0 --port=10000
+# 7. Auto-run migrations and then start the server
+CMD sh -c "php artisan migrate --force && php artisan serve --host=0.0.0.0 --port=10000"
+
